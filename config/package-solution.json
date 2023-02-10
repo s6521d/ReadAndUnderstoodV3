@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "read-and-understood-v-3-client-side-solution",
+    "id": "ad6e8f2c-f0dd-4bb3-9854-561847ea94bd",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.16.1"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "read-and-understood-v-3 description"
+      },
+      "longDescription": {
+        "default": "read-and-understood-v-3 description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "read-and-understood-v-3 Feature",
+        "description": "The feature that activates elements of the read-and-understood-v-3 solution.",
+        "id": "42bca463-a076-416d-91fd-809df2df21af",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/read-and-understood-v-3.sppkg"
+  }
+}

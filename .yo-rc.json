@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "16.19.0",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.4.1"
+    },
+    "version": "1.16.1",
+    "libraryName": "read-and-understood-v-3",
+    "libraryId": "ad6e8f2c-f0dd-4bb3-9854-561847ea94bd",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "read-and-understood-v-3",
+    "solutionShortDescription": "read-and-understood-v-3 description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
